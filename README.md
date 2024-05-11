@@ -1,6 +1,6 @@
 # Pesquisa áudio
 
-Projeto simples, feito com ajuda do Gemini, para pesquisa em arquivos de áudio no formato MP3 a partir da busca de palavras de suas transcrições. Em resumo, um arquivo de áudio é carregado, transcrito e uma busca textual na transcrição informa em que tempo do áudio a palavra pesquisada está presente (ou não).
+Projeto simples, feito com ajuda do [Gemini](https://gemini.google.com/?hl=pt-PT) da [Imersão Inteligência Artificial 2ª Edição da Alura](https://www.alura.com.br/imersao-ia-google-gemini), para pesquisa em arquivos de áudio no formato MP3 a partir da busca de palavras de suas transcrições. Em resumo, um arquivo de áudio é carregado, transcrito e uma busca textual na transcrição informa em que tempo do áudio a palavra pesquisada está presente (ou não).
 
 ## Requisitos
 
